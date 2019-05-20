@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.leapmotiontest.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "C:\\Users\\Brittney\\UNITY\\LeapMotionTest\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "LeapMotionTest [Testing]"
+        }
+      }
+    }
+  ]
+}
